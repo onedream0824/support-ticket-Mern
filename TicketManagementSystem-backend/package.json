@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node TicketManagementSystem-backend/index.js",
+    "dev": "nodemon TicketManagementSystem-backend/index.js"
   },
   "keywords": [],
   "author": "",
