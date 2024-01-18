@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon app.js"
+    "start": "node app.js",
+    "build": "npm install && your-other-build-commands",
+    "dev": "node app.js"
   },
   "keywords": [],
   "author": "",
