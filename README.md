@@ -4,7 +4,11 @@ Welcome to the Support Ticket Management System, a backend service deployed on H
 
 ## Overview
 
-The Support Ticket Management System provides two API services, catering to regular and admin users. It incorporates user and ticket models for effective support request management.
+The Support Ticket Management System is designed to efficiently handle support requests through two distinct API services, tailored for regular users and administrators. It employs user and ticket models to streamline the process of support ticket management.
+
+### Frontend Repository
+
+The frontend of the system is available in a separate repository, which you can access [here](https://github.com/tsl8505/support-ticket-management-system-front). This repository contains the user interface components that interact with the APIs provided by this backend system.
 
 ## API Services
 
